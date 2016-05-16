@@ -1,0 +1,19 @@
+{
+  "name": "hex-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEETWizardJanus/hex-clock.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NEETWizardJanus/hex-clock/issues"
+  },
+  "homepage": "https://github.com/NEETWizardJanus/hex-clock#readme"
+}
